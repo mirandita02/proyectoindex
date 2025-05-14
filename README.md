@@ -18,7 +18,7 @@
     </HEAD>
     <BODY>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
-<a href="enlahttps://mirandita02.github.io/pagina1/">pagina1</a>
+<a href="https://mirandita02.github.io/pagina1/">pagina1</a>
 <a href="https://mirandita02.github.io/pagina2/">pagina2</a>
 <a href="https://mirandita02.github.io/pagina3/">pagina3</a>
 <a href="https://mirandita02.github.io/pagina4/">pagina4</a>
