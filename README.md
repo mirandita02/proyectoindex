@@ -21,7 +21,7 @@
 <a href="file:///E:/pagina1.html">enlace</a>
 <a href="file:///E:/p%C3%A1gina2.html">enlace</a>
 <a href="file:///E:/Pagina3.html">enlace</a>
-<a href="file:///E:/pagina4.html">enlace</a>
+<a href="https://mirandita02.github.io/pagina4/">pagina4</a>
 <a href="https://mirandita02.github.io/pagina5/">pagina5</a>
 
 
