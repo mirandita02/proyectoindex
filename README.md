@@ -13,11 +13,12 @@
     <P>Miranda Vazquez Guerrero
     <P>Arleth Michel Galvan Diaz
     <P>Dibanhi Ienell Argaiz Tienda
-    </BODY>
-    </HTML>
-    </HEAD>
+  <p> </p>
+   
     <BODY>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
+
+    <ul>
 <a href="https://mirandita02.github.io/pagina1/">pagina1</a>
 <a href="https://mirandita02.github.io/pagina2/">pagina2</a>
 <a href="https://mirandita02.github.io/pagina3/">pagina3</a>
